@@ -1,11 +1,10 @@
-# PAP
-In this repository i have all the files and code used to make my PAP (Prova de Apitdão Profissional) which is the final project students who are undergoing high school on a particular course have to do to finish high school, like the exams.
+#PAP
+In this repository, I have all the files and code used to create my PAP (Prova de Aptidão Profissional), which is the final project that high school students in a particular course have to complete in order to finish high school, similar to exams.
 
+My PAP is based on cybersecurity. Here, I set up a small local network with three virtual machines: one acting as the attacker (Kali Linux), another as the client (Windows 10), and an Ubuntu server where I hosted the websites I created.
 
-My PAP is based around cybersecurity, here i set up a small local network with 3 virtual machines, one acting as the attacker, Kali Linux, another acting as the client, Windows 10 and an ubuntu server where i hosted the websites i created.
+I performed two different attacks on this network. The first one was a 'MITM (Man-In-The-Middle)' attack, where the goal was to find the address of the website that the client was accessing, IronLockBank. The other attack was a 'Spear-Phishing' attack, where I targeted the account that the client (fernandomendesbanco@gmail.com) had with the bank.
 
-I made 2 different attacks to this network, the first one was a "MITM (Man-In-The-Middle)" where the goal was to find the address of the website which the client was acessing, IronLockBank, and the other attack was a "Spear-Pishing", where i targeted the account that the client (fernandomendesbanco@gmail.com) had on the Bank.
+This is just a brief overview of my project. Any tips or recommendations about my project or cybersecurity are appreciated. You can reach me at alexandreadrianofranco@gmail.com.
 
-This is a super short version of my project, ANY TIPS or RECOMMENDATIONS about my project or about cybersecurity are apreciated, you can reach me at alexandreadrianofranco@gmail.com .
-
-Thank You.
+Thank you.
