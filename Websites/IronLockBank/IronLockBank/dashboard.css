@@ -1,0 +1,19 @@
+.c-custom-logo2index img {
+    width: 100px;
+    height: auto;
+    padding-left: -60px;
+}
+.c-custom-image-user {
+    width: 30px;
+    height: auto;
+}
+
+.navbar-brand {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  body {
+    overflow-x: hidden;
+  }

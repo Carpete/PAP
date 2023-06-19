@@ -1,0 +1,13 @@
+.container {
+    padding-top: 100px;
+    width: 50%;
+    padding: 10px;
+}
+.form-control {
+    border: 0;
+    border-bottom: 1px solid black;
+}
+.c-custom-login-signup-leftside {
+    background-color: #ececec;
+    border-radius: 10px;
+}
